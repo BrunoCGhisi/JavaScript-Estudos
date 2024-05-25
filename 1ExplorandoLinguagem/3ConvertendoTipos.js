@@ -1,6 +1,6 @@
 
 //resultado é ano 2020
-const ano = "ano de " + 2020;
+const ano = "ano de" + " " + 2020;
 console.log("Eu estou no ",ano);
 
 //resultado será 4
